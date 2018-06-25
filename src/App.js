@@ -52,9 +52,9 @@ class App extends Component {
       
       <Manual>
         <div style={{ textDecorationLine: "underline" }}>Manual Instructions:</div>
-        Move your the cursor into the box above. 
+        Move the cursor into the box above. 
         When it's highlighted, click into the box and see what happens. 
-        Move your cursor again to the transformed box to get to standard pose.
+        Move the cursor again to the transformed box to get to standard pose.
       </Manual>
 
       <div style={{ fontSize: "10px", fontWeight: "bold", color: "#ffffff" }}>Created by Cedric Hering</div>

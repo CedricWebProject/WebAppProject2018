@@ -33,6 +33,7 @@ const StyledBox = styled(posed.div({
     ${props => `
       height: ${props.size}px;
       width: ${props.size}px;
+      border-radius: 50%;
     `}
   `;
 
